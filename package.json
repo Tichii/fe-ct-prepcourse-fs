@@ -1,0 +1,22 @@
+{
+  "name": "henry-prepcourse",
+  "version": "1.0.0",
+  "description": "Primera Homework prepcourse",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tichii/Henry-Prepcourse.git"
+  },
+  "keywords": [
+    "prepcourse"
+  ],
+  "author": "Tiziano Prea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tichii/Henry-Prepcourse/issues"
+  },
+  "homepage": "https://github.com/Tichii/Henry-Prepcourse#readme"
+}
